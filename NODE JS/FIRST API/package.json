@@ -1,0 +1,23 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "This is the First API built using Node & Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvkhandelwal20/Full-Stack-Web-Development.git"
+  },
+  "author": "Dhruv Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvkhandelwal20/Full-Stack-Web-Development/issues"
+  },
+  "homepage": "https://github.com/dhruvkhandelwal20/Full-Stack-Web-Development#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
